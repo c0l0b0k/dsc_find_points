@@ -11,7 +11,7 @@ cd dsc_find_points
 
 ```bash
 python -m venv venv
-venv\Scriptsctivate        # для Windows
+venv\Scripts\activate        # для Windows
 
 ```
 
